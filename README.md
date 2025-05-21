@@ -51,12 +51,6 @@ A responsive streaming platform interface with dynamic components and real-time 
 Interactive Power BI dashboard with custom drill-down parameters and visualization.
 - Power BI, DAX, SQL, Data Modeling
 
-### 📈 GitHub Stats
-
-[![Sruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### 📫 Let's Connect!
 
