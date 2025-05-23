@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Sruti Dash
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srutidash)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sruti-dash/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://portfolio-ai-chatbot.vercel.app/)
 
 ## 💻 Full Stack Developer | Angular & React Specialist | UI/UX Enthusiast
 
@@ -41,15 +41,15 @@ I'm a passionate and detail-oriented Full Stack Developer with expertise in buil
 
 ### 🔭 Featured Projects
 
-#### [Portfolio Project](https://github.com/srutidash/portfolio)
+#### [Portfolio Project](https://portfolio-ai-chatbot.vercel.app/)
 A personal portfolio built with React.js featuring an AI Chatbot integration.
 - React.js, Next.js, HTML, CSS, Chatbase
 
-#### [Netflix Clone](https://github.com/srutidash/netflix-clone)
+#### [Netflix Clone](https://famous-quokka-576a88.netlify.app/)
 A responsive streaming platform interface with dynamic components and real-time data.
 - React.js, Firebase, JavaScript, HTML, CSS
 
-#### [E-commerce Analytics Dashboard](https://github.com/srutidash/ecommerce-analytics)
+#### [E-commerce Analytics Dashboard](https://power-bi-dashboard-for-ecommerce-project-web-ol1q.vercel.app/)
 Interactive Power BI dashboard with custom drill-down parameters and visualization.
 - Power BI, DAX, SQL, Data Modeling
 
@@ -58,4 +58,4 @@ Interactive Power BI dashboard with custom drill-down parameters and visualizati
 
 Feel free to reach out for collaborations or just a chat about tech!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srutidash1203@gmail.com)
